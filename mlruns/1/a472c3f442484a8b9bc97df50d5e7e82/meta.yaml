@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jean/code/Jehadel/TaxiFareModel/mlruns/1/a472c3f442484a8b9bc97df50d5e7e82/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: a472c3f442484a8b9bc97df50d5e7e82
+run_uuid: a472c3f442484a8b9bc97df50d5e7e82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1629208068362
+status: 1
+tags: []
+user_id: unknown
